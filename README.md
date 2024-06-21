@@ -8,6 +8,8 @@
 
 [Текстовый проект](https://docs.google.com/document/d/1m4dRg_59v67WiupIAOg5CyRH-mHhGCLbwMwEepR_umk/edit?usp=sharing)
 
+[Презентация](https://docs.google.com/presentation/d/1TZpBLVJMW8KmhkQJILhzaGmq2Ul6GPsf/edit?usp=sharing&ouid=109623147747584209724&rtpof=true&sd=true)
+
 ## Используемые библиотеки
 
 - [Polars](https://pola.rs/)
